@@ -1,2 +1,4 @@
 # hello-world
-i'm just getting warmed up
+Name's Joshua.
+
+This is my first activity on Github. Looks like an interesting program.
